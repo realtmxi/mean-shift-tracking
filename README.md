@@ -1,4 +1,4 @@
-Firstly, attempt to evaluate the performance of mean shift tracking in a signle case3.
+Firstly, attempt to evaluate the performance of mean shift tracking in a signle case.
 
 then, implement a small variation of the standard mean shift tracking.
 
